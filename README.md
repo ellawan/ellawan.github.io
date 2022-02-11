@@ -1,1 +1,1 @@
-https://github.com/ellawan/Medcoin.github.io
+https://ellawan.github.io/
