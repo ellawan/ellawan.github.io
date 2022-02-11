@@ -1,2 +1,1 @@
-# ellawan.github.io
-MedCoin Authorization 
+https://github.com/ellawan/Medcoin.github.io
